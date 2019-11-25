@@ -49,7 +49,7 @@ consists of 425 lectures divided into the following 22 sections:
 - [ ] Section 22 : Migrating Java Projects to Java 9
 
 
-#### Classes, Challenges and MasterChallenges are divided into its related section to be easily managed.
+#### Classes, Challenges and MasterChallenges are divided into each related section to be easily managed.
 
 Course taken in conjunction with the book ***Java How to Program, Early Objects*** *Eleventh Edition by Paul J Deitel and Harvey Deitel*.
 
