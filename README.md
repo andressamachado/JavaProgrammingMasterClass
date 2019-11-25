@@ -51,6 +51,6 @@ consists of 425 lectures divided into the following 22 sections:
 
 #### Classes, Challenges and MasterChallenges are divided into each related section to be easily managed.
 
-Course taken in conjunction with the book ***Java How to Program, Early Objects*** *Eleventh Edition by Paul J Deitel and Harvey Deitel*.
+Course taken in conjunction with the book ***Java How to Program, Early Objects*** *(Eleventh Edition) by Paul J Deitel and Harvey Deitel*.
 
 ![Java Deitel](https://images-na.ssl-images-amazon.com/images/I/51frYIzwS1L._SX379_BO1,204,203,200_.jpg)
